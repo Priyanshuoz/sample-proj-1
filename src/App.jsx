@@ -5,6 +5,7 @@ const App = () => {
   return (
     <div className="Parent">
       <Card />
+      <Card />
     </div>
   );
 };
